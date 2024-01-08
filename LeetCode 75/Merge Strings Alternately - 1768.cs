@@ -7,7 +7,7 @@
 
 /* Solution:
  * Zipping both strings to get consecutive pairs of characters
- * then adding leftover by slicing longer word (leftover starts index that equals short word length) 
+ * then adding leftover by slicing longer word (leftover starts with index that equals short word length) 
  */
 public class Solution {
     public string MergeAlternately(string word1, string word2) {
